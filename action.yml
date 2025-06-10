@@ -3,4 +3,4 @@ description: Search Okoo for Agents, Actions.
 
 parameters:
   query:
-    - description: The search query.
+    description: The search query.
